@@ -34,16 +34,6 @@
   <img src="https://img.shields.io/badge/Antigravity-AI-purple?style=for-the-badge"/>
 </p>
 
----
-
-## 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jai45-star&show_icons=true"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=Jai45-star"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jai45-star&layout=compact"/>
-</p>
 
 ---
 
